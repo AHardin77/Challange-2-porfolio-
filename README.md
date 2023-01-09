@@ -1,4 +1,4 @@
-💡Project Title Challange 2 Portfolio
+💡Project Title Challenge 2 Portfolio
 A brief description of what this project does and who it's for Webpage Using HTML and CSS portfolio site for school.
 
 💡Resources
